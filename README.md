@@ -2,10 +2,10 @@
 Login and Registration
 
 
-![alt text](./main/resources/templates/LoggedIn.png)
+![alt text](./src/main/resources/templates/LoggedIn.png)
 
 
-![alt text](./main/resources/templates/login.png)
+![alt text](./src/main/resources/templates/login.png)
 
 
-![alt text](./main/resources/templates/register.png)
+![alt text](./src/main/resources/templates/register.png)
