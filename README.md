@@ -1,11 +1,20 @@
 # Login-and-Registration-Project
-Login and Registration
 
+:fallen_leaf::leaves: Login and Registration :leaves: :fallen_leaf:
+
+
+## Registering into the system.
+
+![alt text](./src/main/resources/templates/register.png)
+
+
+## After registrestring in the system, log-in
 
 ![alt text](./src/main/resources/templates/LoggedIn.png)
 
+## The view after logging 
 
 ![alt text](./src/main/resources/templates/login.png)
 
 
-![alt text](./src/main/resources/templates/register.png)
+FUAT KARA
