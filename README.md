@@ -1,6 +1,4 @@
-# Login-and-Registration-Project
-
-:fallen_leaf::leaves: Login and Registration :leaves: :fallen_leaf:
+# :fallen_leaf::leaves: Login and Registration :leaves: :fallen_leaf:
 
 
 ## Registering into the system
