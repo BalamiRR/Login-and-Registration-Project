@@ -1,7 +1,7 @@
 # :fallen_leaf::leaves: Login and Registration :leaves: :fallen_leaf:
 
 
-## Registering into the system 
+## Registering into the system  
 
 ![alt text](./src/main/resources/templates/register.png)
 
